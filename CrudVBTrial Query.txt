@@ -1,0 +1,11 @@
+create database CRUBvbTrial
+
+
+create table 
+(
+ProductId int primary key,
+ProductName nvarchar(100),
+UserId nvarchar(100),
+UserName varchar(100),
+Sex varchar(20)
+)
